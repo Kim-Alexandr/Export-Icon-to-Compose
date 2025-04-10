@@ -1,5 +1,7 @@
 # Export Icon to Compose
 
+https://github.com/user-attachments/assets/cecc139f-79ed-485c-b5f9-5e012e4db647
+
 ### Описание
 
 Плагин **Export Icon to Compose** предназначен для экспорта выбранного векторного объекта из Figma в формате SVG и преобразования его в код Jetpack Compose для Android. Плагин автоматически извлекает имя и размеры выбранного объекта, а затем анализирует SVG (включая все элементы `<path>`) для генерации DSL-команд, подходящих для создания `ImageVector` в Jetpack Compose.
