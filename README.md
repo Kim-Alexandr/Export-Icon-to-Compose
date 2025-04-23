@@ -1,6 +1,9 @@
 # Export Icon to Compose
 
-https://github.com/user-attachments/assets/cecc139f-79ed-485c-b5f9-5e012e4db647
+
+https://github.com/user-attachments/assets/2e3aca0e-3943-4440-8a57-58f37e8eb89f
+
+
 
 ### Описание
 
