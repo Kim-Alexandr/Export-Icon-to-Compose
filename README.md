@@ -16,7 +16,8 @@ https://github.com/user-attachments/assets/2e3aca0e-3943-4440-8a57-58f37e8eb89f
 - Обработка всех основных тегов `<path>` для генерации DSL-команд.
 - Генерация полностью рабочего кода Jetpack Compose, готового для использования в Android-проектах.
 
-### Установка и сборка (WIP)
+### Сылка на плагин
+https://www.figma.com/community/plugin/1492242655311564768/export-icon-to-compose
 
 ---
 
@@ -30,7 +31,8 @@ Features
 - Processes all main <path> elements to generate DSL commands.
 - Generates fully functional Jetpack Compose code, ready for use in Android projects.
 
-### Install (WIP)
+### Link
+https://www.figma.com/community/plugin/1492242655311564768/export-icon-to-compose
 
 ---
 
